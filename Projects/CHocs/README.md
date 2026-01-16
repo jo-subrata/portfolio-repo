@@ -1,5 +1,5 @@
 ## About
-CHocs is a website where users can look and buy for their favorite chocolate. This project was a lab project for the subject "Pattern Software Design" where we were tasked to create a website using the MVC design pattern. The website is made to be user-friendly and easy to navigate.
+This project was a lab project for the subject "Human & Computer Interaction" (which is part of our introduction to web development) where we were tasked to create a website that's easy to use and navigate.
 #
 Languages used : HTML, CSS, JavaScript
 #
