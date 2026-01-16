@@ -3,87 +3,54 @@
   👨‍🦱 Jonathan Emmanuel
   🎓 Bina Nusantara University 
   📖 Computer Science
-  📍  Jakarta, Indonesia
+  📍 Jakarta, Indonesia
   ```
   
 
 ## Introduction
-Greetings, my name is Jonathan Emmanuel. I am a passionate Computer Science student at Bina Nusantara University, driven by a deep fascination with technology and a strong desire to make a positive impact on the world through innovative solutions.
+Greetings, my name is Jonathan Emmanuel. I am a Computer Science fresh graduate from Bina Nusantara University, driven by a deep fascination with technology and a strong desire to make a positive impact on the world through innovative solutions.
 
 Welcome to my portfolio, where I document my learning journey majoring in Computer Science at Bina Nusantara University. Here, you'll find a collection of projects, experiences, and achievements that reflect my growth and development as a computer science student. From coding challenges to innovative projects, this repository encapsulates the essence of my academic journey.
 
 ## Table of Contents  
 1. [Education](#education)
-2. [Skills](#skills)
-3. [Projects](#projects)
-4. [Achievements](#achievements)
-5. [Past Experiences & Past Career](#past-experiences--past-career)
-6. [Future Goals](#future-goals)
+2. [Past Career](#past-career)
+3. [Skills](#skills)
 
 ## Education
 
 - **Bina Nusantara University**
-  - Bachelor in Computer Science
-  - Expected Graduation Year: ***2025***
-  - GPA: ***3.17*** (accumulated from Semester 1-4)
+  - Bachelor of Computer Science
+  - Graduation Date: _14 December 2025_
+  - GPA: ***3.2***
 
 - ***Past Educations***
   - *2019-2021* : Senior High (Grade 11-12) at Satya Wacana Christian Highschool
   - *2018-2019* : Senior High (Grade 10) at Tirta Marta Christian Highschool
   - *2015-2018* : Junior High at Cita Buana School
 
+## Past Career
+- **Karyamas Plantation**
+  - Position: Web Developer Intern
+  - Period: _February 2024 - February 2025_
+  - Description: I redesigned and reengineered an existing inventory/asset management system (ranging from the regional users in between plantations in Kalimantan till the IT support department at the head office) in monitoring assets (e.g. PCs, printers, etc.) under the company's ownership.
+
+
 ## Skills
 
 ### Programming Languages and Tools
 
 - Web Development
-  - HTML
-  - CSS
+  - PHP
+  - Codeigniter
   - JavaScript
 - Database Management
-  - SQL
-- Software Development
+  - MySQL
+- Other languages
   - C#
   - C++
   - Java
-- Other Languages
-  - Python
 
-### Other Technical Skills
-
-- Version Control (Git)
-- Operating Systems (Windows, Linux)
-- IDEs (Visual Studio Code, Visual Studio, Eclipse)
-
-### Soft Skills
-- Communication
-- Teamwork
-- Problem Solving
-- Time Management ***(to be improved)***
-- Adaptability ***(to be improved)***
-
-### Small Hobbies and Interests I can take advantage of 
-- Photography
-- Video Editing
-
-## Projects
-*My past projects that I made during college life can be seen in the [Projects](./Projects/) directory*
-
-## Achievements
-- *(to be added in the future)*
-
-## Past Experiences & Past Career
-- *(to be added in the future)*
-
-## Future Goals
-
-As I continue my academic journey in Computer Science, my key objectives are:
-
-1. **Real-world Experience**: Gain practical experience through internships or part-time jobs in the tech industry to apply classroom knowledge in real-world scenarios.
-
-2. **Open Source Contribution**: Actively contribute to open-source projects, fostering collaboration and learning within the developer community.
-
-3. **Graduation**: Successfully graduate and continue my career in technology, with the ultimate aim of making meaningful contributions to society through innovative solutions.
 
 Thank you for visiting my portfolio, and I look forward to sharing more exciting updates as my journey unfolds. If you'd like to connect or collaborate, please feel free to reach out to me at *jonathan.emmanuel@binus.ac.id*.
 
