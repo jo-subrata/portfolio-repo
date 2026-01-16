@@ -1,5 +1,5 @@
 ## About
-This project was a lab project for the subject "Human & Computer Interaction" (which is part of our introduction to web development) where we were tasked to create a website that's easy to use and navigate.
+This project was a lab project for the subject "Human & Computer Interaction" as our introduction to web design and fundamentals of UI/UX.
 #
 Languages used : HTML, CSS, JavaScript
 #
